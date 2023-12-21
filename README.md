@@ -1,6 +1,5 @@
 ### Hi there :D
 I really like coding and writing little tools or services that assist in tedious tasks.
-I am currently working on my Bachelors Degree.
 
 <!--
 **Discipolus/Discipolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
